@@ -33,6 +33,6 @@ git init
 git add .
 git commit -m "Health data aggregation: schema, seed, rollups, MV, README"
 git branch -M main
-git remote add origin https://github.com/<>/<>.git
+git remote add origin https://github.com/Ahlemmhm/health-data-aggregation.git
 git push -u origin main
 ```
